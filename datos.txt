@@ -1,2 +1,3 @@
 Practica de git para crear un repositorio desde la terminal.
 Este archivo fue modificado desde GitHub.
+Este archivo fue modificado desde el repositorio local.
